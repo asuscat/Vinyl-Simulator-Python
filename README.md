@@ -1,5 +1,7 @@
-# Vinyl-Simulator-Python
+# Vinyl-Simulator-Python CREDIT: https://github.com/BrookRichardson/vinyl-simulator
 The name says it all!
+
+CREDIT: https://github.com/BrookRichardson/vinyl-simulator
 
 for windows only
 
